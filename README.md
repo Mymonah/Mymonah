@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello 👋 I am Mymonah Khasawneh 
+### Technical/Content Writer
 
-<!--
-**Mymonah/Mymonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                     |                                                                                                                                                                                                                                                                                                                                            |     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| **Contact**         | :telephone_receiver:0786289940<br>:envelope: mymonah.m.kh@gmail.com                                                                                                                                                                                                                                                                                                   |     |
+| **Education**       | University of Jordan<br>Bachelor of Computer Engineering                                                                                                                                                                                                                                                                               |     |
+| **Work Experience** | :pushpin: Technical Content Creator (Freelance)<br>*Alaaqat ( 2024 – present )*<br> :small_blue_diamond:Technical Articles (SAAS).<br>:small_blue_diamond:User Manual Documents.<br>:small_blue_diamond:Instructional videos for software usage.<br>:small_blue_diamond:All articles, documents, and videos created both in Arabic and English.<br>:small_blue_diamond:Using Markdown language. |     |
+|                     | :pushpin: Technical Content writer (Freelance)<br>*Mawdoo3 ( 2020 – 2021)*<br>:small_blue_diamond:Creating arabic technical articles.                                                                                                                                                                                                                      |     |
+|                     | :pushpin: Content Writer (Volunteering)<br>:small_blue_diamond:Writing a Technical articles for different websites like ArageekTech and Mawsuah.com                                                                                                                                                                                                                  |     |
+| **Skills**          | :small_blue_diamond:Markdown/Github.<br>:small_blue_diamond:SEO basics.<br>:small_blue_diamond:Images and videos Editing software.<br>:small_blue_diamond:English and Arabic language.<br>:small_blue_diamond:AI Tools                                                                                                                                                                 |     |
