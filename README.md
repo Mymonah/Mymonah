@@ -4,13 +4,17 @@
 ---
 I enjoy writing, especially when it comes to explaining complex topics or procedures in a clear and accessible way.<br> I prefer writing in scientific and technology topics. I believe that sharing knowledge in these areas truly matters.<br>
 
-*I'm currently on a journey to learn Data Science. You can find my progress and updates in my 'MyDataScience' repository*.<br/>
+Find Samples of mywork [here](https://github.com/Mymonah/MyArticles).
+
+*I'm currently on a journey to learn Data Science. You can find my progress and updates in my ['MyDataScience'](https://github.com/Mymonah/MyDataScience) repository*.<br/>
 
 
 الكتابة بالنسبة لي مُتعة، وعلى وجه الخصوص حين أكتب لأن هناك أحد ما يبحث عن الطريقة أو المعلومة، ويريد أن يجد مصدرا يوضح ويشرح له المعلومة بشكل بسيط وسلس !<br>
 أحب الكتابة على وجه العموم، فيما يخص الأدب وخواطر النفس وغيرها، ولكن فيما يخص الكتابة للعامّة فلا شيء يُضاهي العلوم والتكنولوجيا على الإطلاق !</br>
 
-*أخوض اليوم تجربتي في التعلّم نحو عالم "علم البيانات"، يمكنك متابعة كل ما يستجد في رحلتي من خلال مستودع "MyDatascience"*.
+للاطلاع على نماذج من أعمالي [هنا](https://github.com/Mymonah/MyArticles).
+
+*أخوض اليوم تجربتي في التعلّم نحو عالم "علم البيانات"، يمكنك متابعة كل ما يستجد في رحلتي من خلال مستودع ["MyDatascience"](https://github.com/Mymonah/MyDataScience)*.
 
 
 ---
